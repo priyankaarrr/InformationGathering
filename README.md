@@ -28,7 +28,10 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 ## IP2LOCATION:
 ![image](https://github.com/user-attachments/assets/0f9cbff7-5967-4c3d-843a-43232064ded8)
 
+
 ## WEB ARCHIVE:
+![Screenshot 2025-03-12 223724](https://github.com/user-attachments/assets/fe35ce3b-61b3-4515-bdfc-da28f1b36125)
+
 ## NMAP:
 ![WhatsApp Image 2025-03-07 at 10 48 21 PM](https://github.com/user-attachments/assets/ea656229-9ed5-4f26-861f-5ec41891c94a)
 
