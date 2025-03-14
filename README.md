@@ -29,6 +29,8 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 ![image](https://github.com/user-attachments/assets/0f9cbff7-5967-4c3d-843a-43232064ded8)
 
 ## WEB ARCHIVE:
+![Uploading image.png…]()
+
 ## NMAP:
 ![WhatsApp Image 2025-03-07 at 10 48 21 PM](https://github.com/user-attachments/assets/ea656229-9ed5-4f26-861f-5ec41891c94a)
 
